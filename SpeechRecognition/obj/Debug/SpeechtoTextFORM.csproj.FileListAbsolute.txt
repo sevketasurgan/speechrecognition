@@ -1,0 +1,9 @@
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\bin\Debug\SpeechtoTextFORM.exe.config
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\bin\Debug\SpeechtoTextFORM.exe
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\bin\Debug\SpeechtoTextFORM.pdb
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\obj\Debug\SpeechtoTextFORM.csprojAssemblyReference.cache
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\obj\Debug\SpeechtoTextFORM.Form1.resources
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\obj\Debug\SpeechtoTextFORM.Properties.Resources.resources
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\obj\Debug\SpeechtoTextFORM.csproj.GenerateResource.cache
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\obj\Debug\SpeechtoTextFORM.exe
+C:\Users\sevke\Source\Repos\SpeechtoTextFORM\obj\Debug\SpeechtoTextFORM.pdb
